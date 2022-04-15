@@ -1,0 +1,6 @@
+{
+    "DockerRun.DisableDockerrc": true,
+    "yaml.schemas": {
+        "https://json.schemastore.org/pubspec.json": "file:///d%3A/App/unvo/pubspec.yaml"
+    }
+}
